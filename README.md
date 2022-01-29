@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="hhttps://github.com/scavalari">
-  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=scavalari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scavalari&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=scavalari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scavalari&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ste-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
