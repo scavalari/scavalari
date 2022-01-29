@@ -1,14 +1,5 @@
 
 ### Olá! Eu sou a Stephanie Ferreira <h1>
-  
-- 🔭 I'm a FullStack Developer Jr in formation
-- 🌱 I’m currently learning JAVA, MySQL, Spring
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 I already know Front-End (HTML5, CSS3, JavaScript, Angular, Bootstrap
-- 📫 Send me an e-mail: ferreirasc09@gmail.com
-- 😄 Pronouns: ela/she
-- ⚡ Fun fact: ...
 
 <div align="center">
   <a href="hhttps://github.com/scavalari">
